@@ -1,0 +1,8 @@
+LC50_show
+LCD-hdmi
+LCD_hdmi
+LCD35_hdmi
+LCD35-retropie
+LCD35-show -> funciona el tactil
+LCD35-fdbp -> funciona en la pantalla pero no en el hdmi, 
+              si luego se pone LCD35-show functiona en ambas
